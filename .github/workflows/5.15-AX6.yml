@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/robimarko/openwrt
+  REPO_URL: https://github.com/silinge/lede
   REPO_BRANCH: ipq807x-5.15-pr-nss-drv
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: AX6-5.15.config
